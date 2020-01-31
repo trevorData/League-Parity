@@ -1,6 +1,27 @@
 # [Main Plot](https://imgur.com/EpQH2vW.jpg)
 
 ---
+### Summary:
+
+**TLDR:**
+
+League | When is the Season 90% "solved"?
+---|---
+NBA | 48 games (57% of season)
+MLB | 111 games (68% of season)
+NHL | 63 games (76% of season)
+NFL | 13 games (76% of season)
+
+---
+
+League | How much of next year's record can be predicted from this year's record?
+---|---
+NBA | 40%
+MLB | 26% 
+NHL | 19%
+NFL | 12%
+
+---
 
 ### **How R\^2 works:**
 
